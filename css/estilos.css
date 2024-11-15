@@ -1,0 +1,27 @@
+.cuerpo {
+    display: flex;
+    justify-content: space-between;
+}
+
+.productos-izquierda {
+    max-width: 60%;
+    text-align: left;
+}
+
+.informacion-derecha {
+    max-width: 35%;
+    text-align: left;
+    border: 5px solid green;
+    background-color: rgb(0, 110, 255);
+
+}
+footer{
+    background-color: blue;
+    align-content: center;
+    text-align: center;
+}
+.encabezado{
+    background-color: blue;
+    align-content: center;
+    text-align: center;
+}
